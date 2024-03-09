@@ -14,4 +14,3 @@ Therefore, the restaurant's online orders will be handled through an application
 - Establishing a related database;
 - The option to create an order containing various products, as well as the possibility to remove some of them before finalization;
 - Generating optimal menus based on the user's daily calorie needs and fitting them into a predetermined maximum budget;
-- Illustrating, through a graph, the total calorie quantity for each product chosen by the logged-in client
